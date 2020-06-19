@@ -52,3 +52,7 @@ Nestj Course - Smart Ranking API
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+## References 
+
+[api-smartranking](https://gitlab.com/dfs-treinamentos/smart-ranking/api-smartranking-backend/-/tree/aula-1)
