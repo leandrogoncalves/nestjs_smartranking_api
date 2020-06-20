@@ -7,5 +7,13 @@ nest g module jogadores
 nest g controller Jogadores
 
 #cria um service
+nest g service jogadores
 
-est g service jogadores
+#instala uuid
+yarn add uuid dotenv   
+
+#instala mongoose
+yarn add @nestjs/mongoose mongoosev
+
+#Uso dos Pipes para validacao
+yarn add class-validator class-transformer
